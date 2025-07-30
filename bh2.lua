@@ -19,7 +19,7 @@ if not loaded then
 end
 
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tls123account/StarStream/main/Hub.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tls123account/StarStream/refs/heads/main/Hub"))()
 
 
 task.delay(1, function()
