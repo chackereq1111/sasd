@@ -21,6 +21,8 @@ end
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tls123account/StarStream/refs/heads/main/Hub"))()
 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/hea/refs/heads/main/t"))()
+
 
 task.delay(1, function()
     repeat wait() until game.Players.LocalPlayer
